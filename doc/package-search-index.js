@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.rest.webservices.restfulwebservices"},{"l":"com.rest.webservices.restfulwebservices.exceptions"},{"l":"com.rest.webservices.restfulwebservices.helloworld"},{"l":"com.rest.webservices.restfulwebservices.user"}];updateSearchResults();
