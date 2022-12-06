@@ -1,4 +1,4 @@
 package com.rest.webservices.restfulwebservices.versioning;
 
-public class Person {
+public abstract class Person {
 }
