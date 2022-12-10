@@ -19,8 +19,7 @@ import jakarta.validation.Valid;
 
 @RestController
 public class UserResource {
-	
-	@Autowired
+
 	private UserDaoService service;
 	
 	public UserResource(UserDaoService service) {
